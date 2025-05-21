@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Niksh 👋</h1>
 
-<!--
-**niksh2511/niksh2511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&lines=DevOps+Engineer;Cloud+Infra+Automation;Software+Developer;Security+Focused+Builder" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Who I Am
+
+- 🚀 DevOps + Fullstack hybrid
+- ⚙️ Automating infra, monitoring APIs, building self-healing systems
+- 🔒 Obsessed with reliability & security
+- 🛠️ Currently working on private infra projects
+- 🧪 Experimenting with DAST, cloud log analysis & automation
+- 🧠 Learning Go | Scaling system architecture
+
+---
+
+### 🔧 My Toolbox
+
+```yaml
+Cloud: AWS, Azure
+IaC: Terraform, CloudFormation
+CI/CD: Azure DevOps, GitHub Actions, Jenkins
+Containers: Docker, Kubernetes
+Monitoring: Prometheus, Grafana, ELK
+Languages: Node.js, Bash, Python, .NET
+Frontend: React, Vue, Angular
+
+
