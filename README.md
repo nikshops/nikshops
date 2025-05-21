@@ -1,8 +1,9 @@
 <h1 align="center">Hey, I'm Niksh 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&lines=DevOps+Engineer;Cloud+Infra+Automation;Software+Developer;Security+Focused+Builder" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=DevOps+Engineer;Cloud+Infra+Automation;Software+Developer;Security+Focused+Builder" />
+</div>
+
 
 ---
 
