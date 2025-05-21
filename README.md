@@ -9,7 +9,7 @@
 
 ### 👨‍💻 Who I Am
 
-- 🚀 DevOps + Fullstack hybrid
+- 🚀 DevOps
 - ⚙️ Automating infra, monitoring APIs, building self-healing systems
 - 🔒 Obsessed with reliability & security
 - 🛠️ Currently working on private infra projects
