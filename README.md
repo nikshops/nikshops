@@ -33,14 +33,14 @@ Frontend: React, Vue, Angular
 ### ⚙️ Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niksh2511&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=niksh2511&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikshops&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikshops&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niksh2511&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nikshops&theme=tokyonight" />
 </p>
 
 
