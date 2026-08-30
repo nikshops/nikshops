@@ -1,50 +1,43 @@
-<h1 align="center">Hey, I'm Niksh 👋</h1>
+# Nikhil Singh
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=DevOps+Engineer;Cloud+Infra+Automation;Software+Developer;Security+Focused+Builder" />
-</div>
+DevOps Engineer. Three years of continuous production ownership across 30+ client environments — AWS, Azure, and GCP, running concurrently, not sequentially.
 
-
----
-
-### 👨‍💻 Who I Am
-
-- 🚀 DevOps
-- ⚙️ Automating infra, monitoring APIs, building self-healing systems
-- 🔒 Obsessed with reliability & security
-- 🛠️ Currently working on private infra projects
-- 🧪 Experimenting with DAST, cloud log analysis & automation
-- 🧠 Learning Go | Scaling system architecture
+Agency-side work means infrastructure never sits still. Some weeks: keeping an isolated Linux host alive as the sole engineer on call. Other weeks: orchestrating a 100-application container fleet on Azure Container Apps while debugging an API version regression mid-deployment. That range is the value.
 
 ---
 
-### 🔧 My Toolbox
+## What I build
 
-```yaml
-Cloud: AWS, Azure
-IaC: Terraform, CloudFormation
-CI/CD: Azure DevOps, GitHub Actions, Jenkins
-Containers: Docker, Kubernetes
-Monitoring: Prometheus, Grafana, ELK
-Languages: Node.js, Bash, Python, .NET
-Frontend: React, Vue, Angular
-```
+**Containers & Fleets** — Azure Container Apps fleets (100+ apps), Amazon ECS, Docker  
+**Infrastructure as Code** — Terraform, CloudFormation, Azure Bicep  
+**CI/CD** — GitHub Actions canary pipelines with CloudWatch alarm gates, Azure DevOps, Jenkins  
+**Security** — GCP Cloud Armor WAF (SQLi/XSS perimeter), IAM least-privilege, bastion key audits  
+**Observability** — CloudWatch SRE alarms, structured alerting, MTTR under 18 min average  
+**Cost** — RDS right-sizing from CloudWatch metrics, S3 lifecycle automation
 
-### ⚙️ Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikshops&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikshops&theme=tokyonight&hide_border=true" />
-</p>
+## Selected work
 
-### 🏆 GitHub Trophies
+| Repo | What it demonstrates |
+|------|---------------------|
+| [azure-container-fleet](https://github.com/nikshops/azure-container-fleet) | AZ CLI + PowerShell: 100+ app fleet deploy with ACR, version pinning, rollback |
+| [gcp-cloud-armor-waf](https://github.com/nikshops/gcp-cloud-armor-waf) | Terraform: Cloud Armor WAF + Cloud Run + serverless NEG — full edge topology |
+| [github-actions-canary-pipeline](https://github.com/nikshops/github-actions-canary-pipeline) | GitHub Actions: canary deploy with CloudWatch alarm gates and auto-rollback |
+| [aws-rds-rightsizing](https://github.com/nikshops/aws-rds-rightsizing) | CloudWatch metric analysis → RDS resize recommendations + apply script |
+| [linux-server-migration-toolkit](https://github.com/nikshops/linux-server-migration-toolkit) | Bash: server migration, bastion key hardening, DR restore verification |
+| [aws-ssl-cert-automation](https://github.com/nikshops/aws-ssl-cert-automation) | Certbot + Route 53 DNS-01: automated cert issuance, renewal, expiry alerting |
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikshops&theme=tokyonight" />
-</p>
+---
 
+## By the numbers
 
+- **850+** production deployments shipped and logged
+- **30+** client environments managed (single server to multi-cloud fleets)
+- **99.98%** production uptime SLA defended
+- **3** clouds run concurrently — not learned sequentially
 
+---
 
-
-
+**Open to engagements** — fractional DevOps, platform ownership, infrastructure audits  
+niksh2511@gmail.com · [LinkedIn](https://linkedin.com/in/nikshops)
